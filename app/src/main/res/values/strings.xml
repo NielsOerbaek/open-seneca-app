@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Open Seneca Sensor App</string>
+    <string name="lastSend">%1$s,\n %2$s </string>
+    <string name="bleScan">Scanning...</string>
+    <string name="bleConnect">Connecting...</string>
+    <string name="bleSuccess">Connected to sensor</string>
+    <string name="bleSending">Sending measurements...</string>
+</resources>
